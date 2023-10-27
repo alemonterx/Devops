@@ -1,2 +1,19 @@
-# Devops
-Documentación técnica sobre: Devops
+# DOCUMENTACIÓN TÉCNICA SOBRE: DEVOPS
+
+![Devops](portada.png)
+
+## ÍNDICE
+
+1. [Introducción](introduccion.md)
+2. [¿Qué es un administrador de sistemas?](asir.md)
+3. [¿Qué es un desarrolador?](desarrollador.md)
+4. [¿Qué es Devops?](devops.md)
+    1. [Perfil de Devops](perfilDevops.md)
+
+## REFERENCIAS
+
+[Documentación](documentacion.pdf)
+
+## LICENCIA
+
+![Licencia](licencia.png)
