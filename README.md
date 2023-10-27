@@ -12,7 +12,7 @@
 
 ## REFERENCIAS
 
-[Documentación](documentacion.pdf)
+[Wikipedia](https://es.wikipedia.org/wiki/DevOps)
 
 ## LICENCIA
 
