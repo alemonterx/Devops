@@ -4,11 +4,11 @@
 
 ## ÍNDICE
 
-1. [Introducción](indice/introduccion.md)
-2. [¿Qué es un administrador de sistemas?](indice/asir.md)
-3. [¿Qué es un desarrollador?](indice/desarrollador.md)
-4. [¿Qué es Devops?](indice/devops.md)
-    1. [Perfil de Devops](indice/perfilDevops.md)
+1. [Introducción](introduccion.md)
+2. [¿Qué es un administrador de sistemas?](asir.md)
+3. [¿Qué es un desarrollador?](desarrollador.md)
+4. [¿Qué es Devops?](devops.md)
+    1. [Perfil de Devops](perfilDevops.md)
 
 ## REFERENCIAS
 
